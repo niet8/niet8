@@ -2,7 +2,7 @@
 
 **Full Stack Developer & Responsable de IT** en [Cuimo](https://cuimo.com) · Madrid, España
 
-Desarrollador full stack junior con Grado Superior en DAM. En Cuimo desarrollo el panel de administración con Next.js, TypeScript y Tailwind CSS y la API REST con Fastify y MongoDB, y gestiono la infraestructura IT de la empresa. Vengo de varios años de atención al cliente en retail, lo que me ayuda a entender qué necesita quien usa lo que construyo. En constante formación, con especial interés en el desarrollo asistido por IA.
+Desarrollador full stack junior con Grado Superior en DAM. En Cuimo desarrollo el panel de administración con Next.js, TypeScript y Tailwind CSS y la API REST con Fastify y MongoDB, y me encargo de la gestión IT de la empresa: dispositivos, seguridad y soporte al equipo. Vengo de varios años de atención al cliente en retail, lo que me ayuda a entender qué necesita quien usa lo que construyo. En constante formación, con especial interés en el desarrollo asistido por IA.
 
 ---
 
@@ -44,6 +44,10 @@ Desarrollador full stack junior con Grado Superior en DAM. En Cuimo desarrollo e
 ## 🎓 Formación
 
 **Davante Medac** · Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) · 2023 – 2025
+
+**Harvard Online** · CS50's Introduction to Programming with Python · 2024
+
+**Harvard Online** · CS50's Introduction to Cybersecurity · 2024
 
 ---
 
