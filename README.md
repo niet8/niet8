@@ -1,8 +1,8 @@
 # Hola, soy Iván 👋
 
-**Full Stack Developer & Responsable de IT** en [Cuimo](https://cuimo.com) · Madrid, España
+**Full Stack Developer** · Madrid, España
 
-Desarrollador full stack junior con Grado Superior en DAM. En Cuimo desarrollo el panel de administración con Next.js, TypeScript y Tailwind CSS y la API REST con Fastify y MongoDB, y me encargo de la gestión IT de la empresa: dispositivos, seguridad y soporte al equipo. Vengo de varios años de atención al cliente en retail, lo que me ayuda a entender qué necesita quien usa lo que construyo. En constante formación, con especial interés en el desarrollo asistido por IA.
+Desarrollador full stack junior con Grado Superior en DAM. En Cuimo desarrollé el panel de administración con Next.js, TypeScript y Tailwind CSS y la API REST con Fastify y MongoDB, y me encargué de la gestión IT de la empresa: dispositivos, seguridad y soporte al equipo. Vengo de varios años de atención al cliente en retail, lo que me ayuda a entender qué necesita quien usa lo que construyo. En constante formación, con especial interés en el desarrollo asistido por IA.
 
 ---
 
@@ -36,7 +36,7 @@ Desarrollador full stack junior con Grado Superior en DAM. En Cuimo desarrollo e
 
 | Empresa | Rol | Período |
 |---|---|---|
-| **Cuimo** | Full Stack & Responsable de IT | May 2026 – Presente |
+| **Cuimo** | Full Stack & Responsable de IT | Ene 2026 – Nov 2026 |
 | **Epoint** | Web Software Developer (prácticas) | Sep 2025 – Dic 2025 |
 | **Tous** | Dependiente | Dic 2021 – Jul 2025 |
 | **Antony Morato** | Dependiente | Dic 2018 – Dic 2021 |
