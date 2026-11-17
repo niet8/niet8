@@ -32,6 +32,20 @@ Desarrollador full stack junior con Grado Superior en DAM. En Cuimo desarrollé 
 
 ---
 
+## 🚀 Proyectos
+
+### [IT Inventory](https://github.com/niet8/it-inventory) · [Demo en vivo](https://niet8-it-inventory.netlify.app)
+
+Gestor de inventario IT con editor interactivo de planos de oficina para ubicar dispositivos y puestos.
+
+- API con **Fastify + Prisma + PostgreSQL** siguiendo Clean Architecture y contratos compartidos con Zod.
+- Web con **React + Vite**; desplegada en Netlify, API en Render y base de datos en Neon.
+- Datos de demostración que se reinician cada noche con GitHub Actions.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+---
+
 ## 💼 Experiencia
 
 | Empresa | Rol | Período |
